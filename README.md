@@ -4,4 +4,4 @@ Esto es un demo.
 
 ## Developers 
 
-- Miguel A. Muñoz Sánchez <miga_munozs03@unicah.edu>
+- Miguel Angel Muñoz Sánchez <miga_munozs03@unicah.edu>
